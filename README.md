@@ -9,7 +9,7 @@ Dark pink-themed Telegram Desktop theme with a soft strawberry aesthetic.
 - Consistent color palette
 
 ## 📸 Preview
-*(добавь скриншоты позже)*
+<img width="1181" height="1147" alt="Telegram_Uo99GWY9Gb" src="https://github.com/user-attachments/assets/663f0903-16da-4e61-bcd4-f76400961b50" />
 
 ## 📦 Installation
 
