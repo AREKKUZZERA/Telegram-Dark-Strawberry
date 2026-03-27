@@ -5,7 +5,7 @@ Dark pink-themed Telegram Desktop theme with a soft strawberry aesthetic.
 ## ✨ Features
 - Dark UI with pink accents
 - Soft contrast for комфортного использования
-- Styled chat bubbles, buttons и scrollbars 
+- Styled chat bubbles, buttons и scrollbars
 - Consistent color palette
 
 ## 📸 Preview
