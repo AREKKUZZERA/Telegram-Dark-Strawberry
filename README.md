@@ -20,4 +20,4 @@ Dark pink-themed Telegram Desktop theme with a soft strawberry aesthetic.
 5. Select the theme
 
 ## 🛠 Customization
-You can edit the palette file:
+You can edit the palette file: https://github.com/AREKKUZZERA/Telegram-Dark-Strawberry/blob/main/Dark-Strawberry-2.4.tdesktop-palette
